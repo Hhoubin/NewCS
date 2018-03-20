@@ -1,0 +1,154 @@
+2018-03-19 09:57:22.157 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 09:57:22 CST 2018]; root of context hierarchy
+2018-03-19 09:57:22.417 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 09:57:22.677 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 09:57:23.700 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 09:57:22 CST 2018]; root of context hierarchy
+2018-03-19 09:57:24.002 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 09:57:24.078 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 09:57:24.078 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 09:57:24.134 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 56 ms
+2018-03-19 09:57:24.134 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 09:57:53.550 [nioEventLoopGroup-4-1] INFO  org.springframework.sandbox.mvc.TestController - 谁=====侯彬
+2018-03-19 09:57:53.773 [nioEventLoopGroup-4-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name ''
+2018-03-19 09:59:06.128 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 09:59:06 CST 2018]; root of context hierarchy
+2018-03-19 09:59:06.313 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 09:59:06.641 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 09:59:07.399 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 09:59:06 CST 2018]; root of context hierarchy
+2018-03-19 09:59:07.473 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 09:59:07.565 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 09:59:07.565 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 09:59:07.622 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 57 ms
+2018-03-19 09:59:07.622 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:00:12.203 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:00:12 CST 2018]; root of context hierarchy
+2018-03-19 10:00:12.391 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:00:12.725 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:00:13.365 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:00:13.548 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:00:12 CST 2018]; root of context hierarchy
+2018-03-19 10:00:13.673 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:00:13.673 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:00:13.711 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 38 ms
+2018-03-19 10:00:13.711 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:00:44.314 [nioEventLoopGroup-4-1] INFO  org.springframework.sandbox.mvc.TestController - 谁=====侯彬
+2018-03-19 10:01:18.931 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:01:18 CST 2018]; root of context hierarchy
+2018-03-19 10:01:19.288 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:01:19.634 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:01:20.697 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:01:18 CST 2018]; root of context hierarchy
+2018-03-19 10:01:20.830 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:01:20.864 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:01:20.864 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:01:20.891 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 27 ms
+2018-03-19 10:01:20.892 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:02:06.912 [nioEventLoopGroup-4-1] INFO  org.springframework.sandbox.mvc.TestController - 谁=====侯彬
+2018-03-19 10:03:07.450 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:03:07 CST 2018]; root of context hierarchy
+2018-03-19 10:03:07.661 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:03:07.928 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:03:08.940 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:03:07 CST 2018]; root of context hierarchy
+2018-03-19 10:03:09.037 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:03:09.105 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:03:09.106 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:03:09.206 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 100 ms
+2018-03-19 10:03:09.207 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:09:54.182 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:09:54 CST 2018]; root of context hierarchy
+2018-03-19 10:09:54.405 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:09:54.711 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:09:55.427 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:09:55.785 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:09:54 CST 2018]; root of context hierarchy
+2018-03-19 10:09:55.896 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:09:55.896 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:09:55.966 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 69 ms
+2018-03-19 10:09:55.968 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:10:24.964 [nioEventLoopGroup-4-1] INFO  org.springframework.sandbox.mvc.TestController - 谁=====侯彬
+2018-03-19 10:11:27.344 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:11:27 CST 2018]; root of context hierarchy
+2018-03-19 10:11:27.542 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:11:27.827 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:11:28.522 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:11:28.724 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:11:27 CST 2018]; root of context hierarchy
+2018-03-19 10:11:28.850 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:11:28.850 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:11:28.916 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 66 ms
+2018-03-19 10:11:28.917 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:14:56.208 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:14:56 CST 2018]; root of context hierarchy
+2018-03-19 10:14:56.427 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:14:56.753 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:14:57.488 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:14:57.686 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:14:56 CST 2018]; root of context hierarchy
+2018-03-19 10:14:57.793 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:14:57.794 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:14:57.831 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 37 ms
+2018-03-19 10:14:57.832 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:18:07.365 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:18:07 CST 2018]; root of context hierarchy
+2018-03-19 10:18:07.549 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:18:07.853 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:18:08.543 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:18:08.713 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:18:07 CST 2018]; root of context hierarchy
+2018-03-19 10:18:08.885 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:18:08.886 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:18:08.934 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 48 ms
+2018-03-19 10:18:08.935 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:18:25.058 [nioEventLoopGroup-4-1] INFO  org.springframework.sandbox.mvc.TestController - 谁=====侯彬
+2018-03-19 10:18:58.455 [nioEventLoopGroup-4-2] INFO  org.springframework.sandbox.mvc.TestController - 谁=====侯彬
+2018-03-19 10:19:13.468 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:19:13 CST 2018]; root of context hierarchy
+2018-03-19 10:19:13.669 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:19:13.981 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:19:14.795 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:19:13 CST 2018]; root of context hierarchy
+2018-03-19 10:19:14.898 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:19:14.980 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:19:14.981 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:19:15.045 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 64 ms
+2018-03-19 10:19:15.045 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:19:20.724 [nioEventLoopGroup-4-1] INFO  org.springframework.sandbox.mvc.TestController - 谁=====侯彬
+2018-03-19 10:19:56.887 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:19:56 CST 2018]; root of context hierarchy
+2018-03-19 10:19:57.139 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:19:57.390 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:19:58.341 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:19:58.391 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:19:56 CST 2018]; root of context hierarchy
+2018-03-19 10:19:58.487 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:19:58.487 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:19:58.560 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 73 ms
+2018-03-19 10:19:58.561 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:21:03.290 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:21:03 CST 2018]; root of context hierarchy
+2018-03-19 10:21:03.463 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:21:03.667 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:21:04.440 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:21:03 CST 2018]; root of context hierarchy
+2018-03-19 10:21:04.534 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:21:04.566 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:21:04.566 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:21:04.593 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 27 ms
+2018-03-19 10:21:04.594 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:21:08.971 [nioEventLoopGroup-4-1] INFO  org.springframework.sandbox.mvc.TestController - 谁=====侯彬
+2018-03-19 10:25:12.508 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:25:12 CST 2018]; root of context hierarchy
+2018-03-19 10:25:12.694 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:25:12.966 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:25:13.807 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:25:12 CST 2018]; root of context hierarchy
+2018-03-19 10:25:13.906 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:25:13.984 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:25:13.985 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:25:14.037 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 52 ms
+2018-03-19 10:25:14.037 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:25:23.338 [nioEventLoopGroup-4-1] INFO  org.springframework.sandbox.mvc.TestController - 谁=====侯彬
+2018-03-19 10:27:23.193 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:27:23 CST 2018]; root of context hierarchy
+2018-03-19 10:27:23.387 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:27:23.692 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:27:24.415 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:27:23 CST 2018]; root of context hierarchy
+2018-03-19 10:27:24.487 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:27:24.576 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:27:24.577 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:27:24.618 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 41 ms
+2018-03-19 10:27:24.618 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:28:16.242 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:28:16 CST 2018]; root of context hierarchy
+2018-03-19 10:28:16.437 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:28:16.765 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:28:17.394 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:28:17.600 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:28:16 CST 2018]; root of context hierarchy
+2018-03-19 10:28:17.718 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:28:17.718 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:28:17.763 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 45 ms
+2018-03-19 10:28:17.764 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
+2018-03-19 10:31:07.971 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Mar 19 10:31:07 CST 2018]; root of context hierarchy
+2018-03-19 10:31:08.187 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2018-03-19 10:31:08.468 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/%e4%b8%aa%e4%ba%ba%e6%96%87%e4%bb%b6/xm/Netty-SpringMVC-master/target/classes/applicationContext.xml]
+2018-03-19 10:31:09.268 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Mar 19 10:31:07 CST 2018]; root of context hierarchy
+2018-03-19 10:31:09.340 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[GET],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(java.lang.String,javax.servlet.http.HttpServletRequest)
+2018-03-19 10:31:09.401 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2018-03-19 10:31:09.402 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2018-03-19 10:31:09.453 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 51 ms
+2018-03-19 10:31:09.453 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8080
